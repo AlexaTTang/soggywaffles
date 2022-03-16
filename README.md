@@ -4,4 +4,4 @@ Here is an example of a paragraph. Waffles are delicious, especially with either
 
 **What kind of waffles do you like?**
 
-![waffle!](waffles.jpg)
+![waffle!](/images/waffles.jpg)
